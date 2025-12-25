@@ -43,10 +43,3 @@ This surface visualizes how Vega (sensitivity to volatility) changes across diff
 ### Model vs. Market Price Comparison
 A bar chart comparing the Black-Scholes model's theoretical price against hypothetical market prices, useful for identifying potential mispricings.
 
-![Model vs Market](outputs/model_vs_market.png)
-
----
-
-## Resume Bullet Point
-
-> Developed a Python-based Black-Scholes option pricing model for NIFTY 50 index options; engineered a Jupyter Notebook to calculate prices and Greeks (Delta, Gamma, Vega, Theta) for 100+ strike/expiry combinations. Created a suite of analytical visualizations, including 3D surfaces, and exported key metrics to CSV, providing a complete tool for theoretical valuation and risk assessment.
